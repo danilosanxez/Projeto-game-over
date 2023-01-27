@@ -1,0 +1,98 @@
+body{
+    background: url('fundo8.png');
+    background-size: 50%;
+    width: 100%;
+    height: vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: 14px Arial, Helvetica, sans-serif; 
+}
+
+#pricipal {
+    width: 50%;
+
+}
+
+#menu {
+    background: rgb(124, 19, 19);    
+    padding: 18px;
+    text-align: center;
+}
+
+#conteudo {
+    background: rgb(22, 22, 22);
+    padding: 5px;
+    text-align: center;
+
+}
+
+#imgcapa {
+    width: 950px;
+    height: 300px;
+}
+
+#rodape {
+    color: rgb(231, 205, 37);
+    text-align: center;
+}
+
+.img-campanha {
+    border: 2px solid rgb(53, 66, 102);
+    width: 940px
+}
+
+
+.ct{
+    margin: auto;
+    background: rgb(22, 22, 22);
+    padding: 5px
+}
+
+.ctconteudo {
+    display: table;
+
+}
+
+.ctimagem {
+    display: table-cell;
+    float: left;
+}
+
+.cttexto {
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.cttextoo {
+    display: table-cell;
+    float: left;
+    width: 54px;
+    margin-top: 50px;
+}
+
+
+h1{
+    color: rgb(190, 32, 32);
+    font-size: 1.2em;
+}
+
+p { 
+    color: rgb(163, 163, 163);
+    font: 12px Arial, Helvetica, sans-serif; 
+
+}
+
+h2{
+    color:rgb(6, 39, 171)
+}
+
+a {
+    color:whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    
+}
